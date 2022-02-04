@@ -1,0 +1,8 @@
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\bin\Debug\ASTMOListener.exe.config
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\bin\Debug\ASTMOListener.exe
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\bin\Debug\ASTMOListener.pdb
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\obj\Debug\ASTMOListener.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\obj\Debug\ASTMOListener.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\obj\Debug\ASTMOListener.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\obj\Debug\ASTMOListener.exe
+C:\Users\orbithealth\source\repos\ASTMOListener\ASTMOListener\obj\Debug\ASTMOListener.pdb

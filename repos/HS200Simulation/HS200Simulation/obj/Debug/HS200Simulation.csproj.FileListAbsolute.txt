@@ -1,0 +1,8 @@
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\bin\Debug\HS200Simulation.exe.config
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\bin\Debug\HS200Simulation.exe
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\bin\Debug\HS200Simulation.pdb
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\obj\Debug\HS200Simulation.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\obj\Debug\HS200Simulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\obj\Debug\HS200Simulation.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\obj\Debug\HS200Simulation.exe
+C:\Users\orbithealth\source\repos\HS200Simulation\HS200Simulation\obj\Debug\HS200Simulation.pdb

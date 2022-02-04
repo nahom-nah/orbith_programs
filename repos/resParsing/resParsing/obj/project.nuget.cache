@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuQwVKAT5uOyNeOxMYJTV3KUeTk/342/LWQLnMrJwIiRSS1ZZnHZ41nPHjjt1xBcrjLdk0Qf4AAn8ifbfkkmgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orbithealth\\source\\repos\\resParsing\\resParsing\\resParsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orbithealth\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

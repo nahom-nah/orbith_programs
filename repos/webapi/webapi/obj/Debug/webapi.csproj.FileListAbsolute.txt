@@ -1,0 +1,8 @@
+C:\Users\orbithealth\source\repos\webapi\webapi\bin\Debug\webapi.exe.config
+C:\Users\orbithealth\source\repos\webapi\webapi\bin\Debug\webapi.exe
+C:\Users\orbithealth\source\repos\webapi\webapi\bin\Debug\webapi.pdb
+C:\Users\orbithealth\source\repos\webapi\webapi\obj\Debug\webapi.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\webapi\webapi\obj\Debug\webapi.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\source\repos\webapi\webapi\obj\Debug\webapi.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\webapi\webapi\obj\Debug\webapi.exe
+C:\Users\orbithealth\source\repos\webapi\webapi\obj\Debug\webapi.pdb

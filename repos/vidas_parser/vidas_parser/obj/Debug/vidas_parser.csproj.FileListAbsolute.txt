@@ -1,0 +1,8 @@
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\bin\Debug\vidas_parser.exe.config
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\bin\Debug\vidas_parser.exe
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\bin\Debug\vidas_parser.pdb
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\obj\Debug\vidas_parser.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\obj\Debug\vidas_parser.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\obj\Debug\vidas_parser.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\obj\Debug\vidas_parser.exe
+C:\Users\orbithealth\source\repos\vidas_parser\vidas_parser\obj\Debug\vidas_parser.pdb

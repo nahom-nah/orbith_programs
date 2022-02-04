@@ -1,0 +1,8 @@
+C:\Users\orbithealth\source\repos\sysmex\sysmex\bin\Debug\sysmex.exe.config
+C:\Users\orbithealth\source\repos\sysmex\sysmex\bin\Debug\sysmex.exe
+C:\Users\orbithealth\source\repos\sysmex\sysmex\bin\Debug\sysmex.pdb
+C:\Users\orbithealth\source\repos\sysmex\sysmex\obj\Debug\sysmex.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\sysmex\sysmex\obj\Debug\sysmex.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\source\repos\sysmex\sysmex\obj\Debug\sysmex.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\sysmex\sysmex\obj\Debug\sysmex.exe
+C:\Users\orbithealth\source\repos\sysmex\sysmex\obj\Debug\sysmex.pdb

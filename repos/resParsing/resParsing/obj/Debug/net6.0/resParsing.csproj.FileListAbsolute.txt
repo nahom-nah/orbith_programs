@@ -1,0 +1,17 @@
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\resParsing.exe
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\resParsing.deps.json
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\resParsing.runtimeconfig.json
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\resParsing.dll
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\ref\resParsing.dll
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\resParsing.pdb
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.AssemblyInfoInputs.cache
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.AssemblyInfo.cs
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.dll
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\ref\resParsing.dll
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.pdb
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.genruntimeconfig.cache
+C:\Users\orbithealth\source\repos\resParsing\resParsing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\orbithealth\source\repos\resParsing\resParsing\obj\Debug\net6.0\resParsing.csproj.CopyComplete

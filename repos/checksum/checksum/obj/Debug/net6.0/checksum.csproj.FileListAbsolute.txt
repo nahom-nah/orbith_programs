@@ -1,0 +1,15 @@
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.csproj.AssemblyReference.cache
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.AssemblyInfoInputs.cache
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.AssemblyInfo.cs
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\checksum.exe
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\checksum.deps.json
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\checksum.runtimeconfig.json
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\checksum.dll
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\ref\checksum.dll
+C:\Users\orbithealth\source\repos\checksum\checksum\bin\Debug\net6.0\checksum.pdb
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.dll
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\ref\checksum.dll
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.pdb
+C:\Users\orbithealth\source\repos\checksum\checksum\obj\Debug\net6.0\checksum.genruntimeconfig.cache
