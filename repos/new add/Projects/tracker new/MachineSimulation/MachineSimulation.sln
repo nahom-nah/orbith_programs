@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineSimulation", "MachineSimulation\MachineSimulation.csproj", "{1A51EA5E-E8AC-47FE-8E30-E35D2963D189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A51EA5E-E8AC-47FE-8E30-E35D2963D189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A51EA5E-E8AC-47FE-8E30-E35D2963D189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A51EA5E-E8AC-47FE-8E30-E35D2963D189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A51EA5E-E8AC-47FE-8E30-E35D2963D189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59CD2862-D74D-487C-B9A2-8C029C877E11}
+	EndGlobalSection
+EndGlobal

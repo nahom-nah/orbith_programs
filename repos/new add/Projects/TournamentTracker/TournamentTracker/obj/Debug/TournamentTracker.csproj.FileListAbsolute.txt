@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.exe.config
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.exe
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.pdb
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.exe
+C:\Users\orbithealth\Documents\Projects\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.pdb

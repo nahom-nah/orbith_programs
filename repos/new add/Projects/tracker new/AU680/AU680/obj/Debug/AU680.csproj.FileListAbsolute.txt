@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\bin\Debug\AU680.exe.config
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\bin\Debug\AU680.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\bin\Debug\AU680.pdb
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\obj\Debug\AU680.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\obj\Debug\AU680.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\obj\Debug\AU680.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\obj\Debug\AU680.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\AU680\AU680\obj\Debug\AU680.pdb

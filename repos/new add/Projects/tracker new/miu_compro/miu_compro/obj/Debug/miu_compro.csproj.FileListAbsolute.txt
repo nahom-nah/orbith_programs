@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\bin\Debug\miu_compro.exe.config
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\bin\Debug\miu_compro.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\bin\Debug\miu_compro.pdb
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\obj\Debug\miu_compro.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\obj\Debug\miu_compro.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\obj\Debug\miu_compro.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\obj\Debug\miu_compro.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\miu_compro\miu_compro\obj\Debug\miu_compro.pdb

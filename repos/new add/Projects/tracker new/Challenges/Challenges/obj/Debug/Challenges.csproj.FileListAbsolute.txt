@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\obj\Debug\Challenges.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\obj\Debug\Challenges.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\Challenges\Challenges\obj\Debug\Challenges.pdb

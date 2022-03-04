@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2a6d3bd-9659-46d2-a2a7-d3a23b95e893": {
+      "ProjectGuid": "d2a6d3bd-9659-46d2-a2a7-d3a23b95e893",
+      "DisplayName": "LanToRS232",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\bin\Debug\learn_csharp.exe.config
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\bin\Debug\learn_csharp.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\bin\Debug\learn_csharp.pdb
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\obj\Debug\learn_csharp.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\obj\Debug\learn_csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\obj\Debug\learn_csharp.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\obj\Debug\learn_csharp.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\learn_csharp\learn_csharp\obj\Debug\learn_csharp.pdb

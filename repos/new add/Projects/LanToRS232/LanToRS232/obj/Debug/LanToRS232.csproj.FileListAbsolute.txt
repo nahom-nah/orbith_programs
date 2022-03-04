@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\bin\Debug\LanToRS232.exe.config
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\bin\Debug\LanToRS232.exe
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\bin\Debug\LanToRS232.pdb
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\obj\Debug\LanToRS232.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\obj\Debug\LanToRS232.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\obj\Debug\LanToRS232.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\obj\Debug\LanToRS232.exe
+C:\Users\orbithealth\Documents\Projects\LanToRS232\LanToRS232\obj\Debug\LanToRS232.pdb

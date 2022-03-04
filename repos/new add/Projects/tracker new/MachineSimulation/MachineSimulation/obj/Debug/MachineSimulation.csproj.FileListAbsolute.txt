@@ -1,0 +1,8 @@
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\bin\Debug\MachineSimulation.exe.config
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\bin\Debug\MachineSimulation.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\bin\Debug\MachineSimulation.pdb
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\obj\Debug\MachineSimulation.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\obj\Debug\MachineSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\obj\Debug\MachineSimulation.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\obj\Debug\MachineSimulation.exe
+C:\Users\orbithealth\Documents\Projects\tracker new\MachineSimulation\MachineSimulation\obj\Debug\MachineSimulation.pdb

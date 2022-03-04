@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS200", "HS200\HS200.csproj", "{3ED2235E-F47E-4250-8C77-39E27111B3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED2235E-F47E-4250-8C77-39E27111B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED2235E-F47E-4250-8C77-39E27111B3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED2235E-F47E-4250-8C77-39E27111B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED2235E-F47E-4250-8C77-39E27111B3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC547C8B-B45D-41C5-A4D4-4F6B417484CD}
+	EndGlobalSection
+EndGlobal
